@@ -212,4 +212,7 @@ dmypy.json
 # data
 /Tensorflow/dataset/
 
+# log
+/Tensorflow/TF_Tutorial_Expert/logs/
+
 # End of https://www.gitignore.io/api/python,pycharm,jupyternotebooks
