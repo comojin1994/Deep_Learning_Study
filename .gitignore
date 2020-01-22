@@ -214,5 +214,6 @@ dmypy.json
 
 # log
 /Tensorflow/TF_Tutorial_Expert/logs/
+/Tensorflow/TF_Tutorial_Expert/checkpoints/
 
 # End of https://www.gitignore.io/api/python,pycharm,jupyternotebooks
